@@ -1,0 +1,17 @@
+{
+  "name": "niss_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "core.js",
+  "scripts": {
+    "test": "node core"
+  },
+  "author": "Fedra",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "node-opus": "latest",
+    "snekfetch": "latest",
+    "ytdl-core": "^0.18.2"
+  }
+}
